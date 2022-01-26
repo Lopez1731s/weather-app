@@ -11,3 +11,5 @@ Se necesita crear  una cuenta en https://m3o.com/ para obtener un [API TOKEN]( h
 - Clonar repositorio (https://github.com/Lopez1731s/weather-app)
 - En la carpeta del repositorio usar el comando: **npm install** o **npm i**
 - Ejecutarlo usando el comando: **npm start**
+
+![Capture](https://user-images.githubusercontent.com/39103310/151215971-5923b4bc-2a4f-4264-9add-9b22886416b7.PNG)
