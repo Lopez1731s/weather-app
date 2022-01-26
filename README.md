@@ -5,7 +5,7 @@ App desarrollada con react consumiendo el API : https://m3o.com/weather que busc
 Se necesita crear  una cuenta en https://m3o.com/ para obtener un [API TOKEN]( https://m3o.com/ "API TOKEN") y poder hacer la peticiones.
 
 #### Paquetes utilizados
-- [Shards React](http://https://designrevision.com/docs/shards-react/getting-started "adasd")
+- [Shards React](https://designrevision.com/docs/shards-react/getting-started "adasd")
 
 #### Instalación
 - Clonar repositorio (https://github.com/Lopez1731s/weather-app)
