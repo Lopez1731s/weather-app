@@ -9,7 +9,7 @@ const usePost = () => {
   });
 
   const execute = ({ data }) => {
-    const token = "MzNiMjA5ZjctNDkzZS00YmEzLThiYzItMmE3NGRlOGNiZTZk";
+    const token = "token aqui";
 
     const header = {
       headers: {
